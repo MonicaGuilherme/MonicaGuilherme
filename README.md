@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/banner.png" style="max-width: 500px; width: 80%;" alt="MonicaGuilherme">
+  <img src="./assets/banner.png" style="max-width: 00px; width: 80%;" alt="MonicaGuilherme">
 </div>
 
 
@@ -25,8 +25,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">A web application - Animal Shelter Manager</p>
 
 ###
@@ -38,6 +36,8 @@
 <p align="left">React</p>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">Languages and tools</h3>
 
@@ -65,7 +65,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonicaGuilherme&radius=12&theme=gruvbox&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
