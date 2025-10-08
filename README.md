@@ -45,3 +45,15 @@
 </div>
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monicaguilherme&label=Profile%20views&color=0e75b6&style=flat" alt="monicaguilherme" /> </p>
+
+- 🔭 I’m currently working on **Animal Shelter Manager**
+
+- 🌱 I’m currently learning **React**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monicaguilherme&show_icons=true&locale=en" alt="monicaguilherme" /></p>
