@@ -1,3 +1,6 @@
+
+![MonicaGuilherme](./assets/profile.png)
+
 <p align="left">Hello stranger!<br>I’m a junior developer on the hunt for my very first opportunity in tech.<br>I’m ready to trade caffeine and curiosity for real-world experience.<br>Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!</p>
 
 ###
