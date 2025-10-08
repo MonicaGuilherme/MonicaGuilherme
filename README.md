@@ -1,5 +1,8 @@
 
-<img src="./assets/banner.png" width="180" height="180" alt="Mónica Guilherme">
+<div align="center">
+  <img src="./assets/banner.png" style="max-width: 400px; width: 80%;" alt="MonicaGuilherme">
+</div>
+
 
 
 <p align="left">Hello stranger!<br>I’m a junior developer on the hunt for my very first opportunity in tech.<br>I’m ready to trade caffeine and curiosity for real-world experience.<br>Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!</p>
