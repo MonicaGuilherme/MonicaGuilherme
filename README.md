@@ -1,47 +1,46 @@
 
 <div align="center">
-  <img src="./assets/banner.png" style="max-width: 00px; width: 80%;" alt="MonicaGuilherme">
+
+<!--> Banner and welcome text -->
+  <table style="width: 100%; border: none;">
+    <tr>
+      <td style="width: 40%; vertical-align: middle; border: none;">
+        <img src="./assets/banner.png" alt="Monica Guilherme" style="width: 100%; border-radius: 10px;">
+      </td>
+      <td style="width: 60%; vertical-align: middle; text-align: left; border: none;">
+        <h2>Hello stranger! 👋</h2>
+        <p>
+          I’m a junior developer on the hunt for my very first opportunity in tech.<br>
+          I’m ready to trade caffeine and curiosity for real-world experience.<br>
+          Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+<br>
 
 
-
-<br clear="both">
-
+<!-- Profile views badge -->
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MonicaGuilherme.MonicaGuilherme&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MonicaGuilherme.MonicaGuilherme&left_text=Profile%20Views" alt="Profile views" />
 </div>
 
-###
 
-<h2 align="left">Hello stranger!</h2>
-
-###
-
-<p align="left">I’m a junior developer on the hunt for my very first opportunity in tech.<br>I’m ready to trade caffeine and curiosity for real-world experience.<br>Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!</p>
-
-###
+<!-- In progress -->
 
 <h4 align="left">I'm currently working on:</h4>
-
-###
-
-<p align="left">A web application - Animal Shelter Manager</p>
-
-###
+<p align="left">🐾 Animal Shelter Manager</p>
 
 <h4 align="left">I'm currently learning:</h4>
-
-###
-
-<p align="left">React</p>
-
-###
+<p align="left">⚛️ React</p>
 
 <br clear="both">
 
-<h3 align="left">Tech Stack</h3>
 
-###
+<!-- Learned in dept -->
+
+<h3 align="left">Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -63,10 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph"  />
+<<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
-
-###
