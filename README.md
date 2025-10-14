@@ -15,7 +15,7 @@
 <tr>
 <td valign="top" width="55%">
 
-<h2>Hello stranger! 👋</h2>
+<h1 align="center">Hello stranger! 👋</h2>
 
 I’m a junior developer on the hunt for my very first opportunity in tech.  
 I’m ready to trade caffeine and curiosity for real-world experience.  
@@ -25,10 +25,10 @@ Eager to learn and grow, my goal is to join a company that appreciates dedicated
 
 <td valign="top" width="45%">
 
-<h4>Currently working on:</h4>
-🐾 A web application – **Animal Shelter Manager**
+<h3>Currently working on:</h3>
+🐾 **Animal Shelter Manager**
 
-<h4>Currently learning & improving:</h4>
+<h3>Currently learning & improving:</h3>
 ⚛️ React  
 🐘 PostgreSQL
 
