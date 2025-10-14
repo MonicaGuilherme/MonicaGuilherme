@@ -9,29 +9,34 @@
 <br>
 
 <!-- Profile -->
-<table align="center" style="width:100%; border:none;">
-  <tr>
-    <!-- welcome -->
-    <td style="width:55%; vertical-align:top; border:none;">
-      <h2>Hello stranger! 👋</h2>
-      <p>
-        I’m a junior developer on the hunt for my very first opportunity in tech.<br>
-        I’m ready to trade caffeine and curiosity for real-world experience.<br>
-        Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!
-      </p>
-    </td>
+<div align="center">
 
-    <!-- Currently working on & learning steps -->
-    <td style="width:45%; vertical-align:top; border:none;">
-      <h4>Currently working on:</h4>
-      <p>🐾 A web application – <strong>Animal Shelter Manager</strong></p>
-      <h4>Currently learning & improving:</h4>
-      <p>⚛️ React<br> 🐘 PostgreSQL</p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top" width="55%">
+
+<h2>Hello stranger! 👋</h2>
+
+I’m a junior developer on the hunt for my very first opportunity in tech.  
+I’m ready to trade caffeine and curiosity for real-world experience.  
+Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!
+
+</td>
+
+<td valign="top" width="45%">
+
+<h4>Currently working on:</h4>
+🐾 A web application – **Animal Shelter Manager**
+
+<h4>Currently learning & improving:</h4>
+⚛️ React  
+🐘 PostgreSQL
+
+</td>
+</tr>
 </table>
 
-<br>
+</div>
 
 <!-- Profile views badge -->
 <div align="right">
