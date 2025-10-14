@@ -1,25 +1,37 @@
 
 <div align="center">
 
-<!--> Banner and welcome text -->
-  <table style="width: 100%; border: none;">
-    <tr>
-      <td style="width: 40%; vertical-align: middle; border: none;">
-        <img src="./assets/banner.png" alt="Monica Guilherme" style="width: 100%; border-radius: 10px;">
-      </td>
-      <td style="width: 60%; vertical-align: middle; text-align: left; border: none;">
-        <h2>Hello stranger! 👋</h2>
-        <p>
-          I’m a junior developer on the hunt for my very first opportunity in tech.<br>
-          I’m ready to trade caffeine and curiosity for real-world experience.<br>
-          Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!
-        </p>
-      </td>
-    </tr>
-  </table>
+<!-- Banner -->
+  <div align="center">
+  <img src="./assets/banner.png" alt="Monica Guilherme" style="width: 100%; max-width: 900px; border-radius: 10px;">
 </div>
+
 <br>
 
+<!-- Profile -->
+<table align="center" style="width:100%; border:none;">
+  <tr>
+    <!-- welcome -->
+    <td style="width:55%; vertical-align:top; border:none;">
+      <h2>Hello stranger! 👋</h2>
+      <p>
+        I’m a junior developer on the hunt for my very first opportunity in tech.<br>
+        I’m ready to trade caffeine and curiosity for real-world experience.<br>
+        Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!
+      </p>
+    </td>
+
+    <!-- Currently working on & learning steps -->
+    <td style="width:45%; vertical-align:top; border:none;">
+      <h4>Currently working on:</h4>
+      <p>🐾 A web application – <strong>Animal Shelter Manager</strong></p>
+      <h4>Currently learning & improving:</h4>
+      <p>⚛️ React<br> 🐘 PostgreSQL</p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <!-- Profile views badge -->
 <div align="right">
@@ -27,18 +39,8 @@
 </div>
 
 
-<!-- In progress -->
 
-<h4 align="left">I'm currently working on:</h4>
-<p align="left">🐾 Animal Shelter Manager</p>
-
-<h4 align="left">I'm currently learning:</h4>
-<p align="left">⚛️ React</p>
-
-<br clear="both">
-
-
-<!-- Learned in dept -->
+<!-- Tech Stack -->
 
 <h3 align="left">Tech Stack</h3>
 
