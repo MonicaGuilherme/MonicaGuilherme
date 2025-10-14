@@ -15,22 +15,11 @@
 <tr>
 <td valign="top" width="55%">
 
-<h1 align="center">Hello stranger! 👋</h2>
+<h1 align="center">Hello stranger! 👋</h1>
 
 I’m a junior developer on the hunt for my very first opportunity in tech.  
 I’m ready to trade caffeine and curiosity for real-world experience.  
 Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!
-
-</td>
-
-<td valign="top" width="45%">
-
-<h3>Currently working on:</h3>
-🐾 **Animal Shelter Manager**
-
-<h3>Currently learning & improving:</h3>
-⚛️ React  
-🐘 PostgreSQL
 
 </td>
 </tr>
@@ -70,6 +59,20 @@ Eager to learn and grow, my goal is to join a company that appreciates dedicated
 </div>
 
 
-<<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
+
+<table>
+<tr>
+<td valign="top" width="45%">
+<h3>Currently working on:</h3>
+🐾 **Animal Shelter Manager**
+
+<h3>Currently learning & improving:</h3>
+⚛️ React  
+🐘 PostgreSQL
+
+</td>
+</tr>
+</table>
