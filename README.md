@@ -13,25 +13,26 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MonicaGuilherme.MonicaGuilherme&left_text=Profile%20Views" alt="Profile views" />
 </div>
 
+<br>
 
 <!-- Profile -->
-<div align="center">
-
-<table>
+<table align="center" width="90%" cellspacing="10" cellpadding="10">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="100%" align="center">
 
-<h1 align="center">Hello stranger! 👋</h1>
+<h1>Hello stranger! 👋</h1>
 
-I’m a junior developer on the hunt for my very first opportunity in tech.  
-I’m ready to trade caffeine and curiosity for real-world experience.  
+<p align="center" style="max-width: 700px;">
+I’m a junior developer on the hunt for my very first opportunity in tech.<br>
+I’m ready to trade caffeine and curiosity for real-world experience.<br>
 Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!
+</p>
 
 </td>
 </tr>
 </table>
-</div>
 
+<br>
 
 <!-- Tech Stack -->
 
@@ -57,23 +58,32 @@ Eager to learn and grow, my goal is to join a company that appreciates dedicated
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
-<div>
-<table>
+<br>
+
+<!-- Currently Working / Learning -->
+<table align="center" width="90%" cellspacing="10" cellpadding="10">
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="50%" align="center">
+
 <h3>Currently working on:</h3>
 🐾 **Animal Shelter Manager**
 
+</td>
+
+<td valign="top" width="50%" align="center">
+
 <h3>Currently learning & improving:</h3>
-⚛️ React  
-🐘 PostgreSQL
+<p>⚛️ React </p>  
+<p>🐘 PostgreSQL</p>
 
 </td>
 </tr>
 </table>
+
 </div>
