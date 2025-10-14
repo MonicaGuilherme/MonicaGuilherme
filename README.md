@@ -8,6 +8,12 @@
 
 <br>
 
+<!-- Profile views badge -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MonicaGuilherme.MonicaGuilherme&left_text=Profile%20Views" alt="Profile views" />
+</div>
+
+
 <!-- Profile -->
 <div align="center">
 
@@ -24,14 +30,7 @@ Eager to learn and grow, my goal is to join a company that appreciates dedicated
 </td>
 </tr>
 </table>
-
 </div>
-
-<!-- Profile views badge -->
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MonicaGuilherme.MonicaGuilherme&left_text=Profile%20Views" alt="Profile views" />
-</div>
-
 
 
 <!-- Tech Stack -->
@@ -63,6 +62,7 @@ Eager to learn and grow, my goal is to join a company that appreciates dedicated
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
+<div>
 <table>
 <tr>
 <td valign="top" width="45%">
@@ -76,3 +76,4 @@ Eager to learn and grow, my goal is to join a company that appreciates dedicated
 </td>
 </tr>
 </table>
+</div>
