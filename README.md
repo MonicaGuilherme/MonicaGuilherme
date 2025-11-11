@@ -1,13 +1,6 @@
 
 <div align="center">
 
-<!-- Banner -->
-  <div align="center">
-  <img src="./assets/banner.png" alt="Monica Guilherme" style="width: 100%; max-width: 900px; border-radius: 10px;">
-</div>
-
-<br>
-
 <!-- Profile views badge -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MonicaGuilherme.MonicaGuilherme&left_text=Profile%20Views" alt="Profile views" />
