@@ -3,13 +3,13 @@
 <h1 align="center">It's not a bug. It's a feature</h1>
 <p align="center"><em>A Junior Developer Story</em></p>
 
----
+
 <!-- Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=MonicaGuilherme&style=flat-square&color=blue" alt="Visitor Counter"/>
 </p>
 
----
+
 
 ## About Me
 
@@ -17,11 +17,11 @@
 > I’m ready to trade caffeine and curiosity for real-world experience.  
 > Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!_
 
----
+
 
 <!-- Tech Stack -->
 
-<h3 align="left">Tech Stack</h3>
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -44,7 +44,7 @@
 </div>
 
 <br>
----
+
 
 ## Technologies I'm Learning
 
@@ -53,16 +53,15 @@
   <!-- Add more as needed -->
 </p>
 
----
+
 
 ## Ongoing Projects
 
 | Project Name            | Description                                                                 | Link       |
 |------------------------|-----------------------------------------------------------------------------|------------|
-| `Animal Shelter Manager` | A web app to help volunteers manage information about shelter animals       | [GitHub](#) |
+| `Animal Shelter Manager` | A web app to help volunteers manage information about shelter animals       | [GitHub](https://github.com/MonicaGuilherme/Animal-Shelter-Manager) |
 
 
----
 
 ## 🌐 Connect with Me
 
