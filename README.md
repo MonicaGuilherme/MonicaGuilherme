@@ -4,13 +4,6 @@
 <p align="center"><em>A Junior Developer Story</em></p>
 
 
-<!-- Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MonicaGuilherme&style=flat-square&color=blue" alt="Visitor Counter"/>
-</p>
-
-
-
 ## About Me
 
 > _I’m a junior developer on the hunt for my very first opportunity in tech.  
