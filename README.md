@@ -69,4 +69,6 @@
   <a href="https://www.linkedin.com/in/monica-guilherme" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_notabugbutafeature_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://www.codecademy.com/profiles/NotABUgButAFeature" target="_blank"><img src="https://img.shields.io/badge/Codecademy-1F243A?style=flat&logo=codecademy&logoColor=white"/></a>
+  <a href="https://mg-myportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-6c4f8d?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
+
