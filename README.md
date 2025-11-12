@@ -1,11 +1,17 @@
 
-<!-- 🌟 Profile Header -->
-<h1 align="center">It's not a bug but a feature</h1>
+<!-- Header -->
+<h1 align="center">It's not a bug. It's a feature</h1>
 <p align="center"><em>A Junior Developer Story</em></p>
 
 ---
+<!-- Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MonicaGuilherme&style=flat-square&color=blue" alt="Visitor Counter"/>
+</p>
 
-## 👋 About Me
+---
+
+## About Me
 
 > _I’m a junior developer on the hunt for my very first opportunity in tech.  
 > I’m ready to trade caffeine and curiosity for real-world experience.  
@@ -13,7 +19,9 @@
 
 ---
 
-## 🛠️ Technologies I Use
+<!-- Tech Stack -->
+
+<h3 align="left">Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -28,9 +36,17 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 </p>
 
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
+</div>
+
+<br>
 ---
 
-## 🚀 Technologies I'm Learning
+## Technologies I'm Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
@@ -39,21 +55,12 @@
 
 ---
 
-## 📁 Ongoing Projects
+## Ongoing Projects
 
 | Project Name            | Description                                                                 | Link       |
 |------------------------|-----------------------------------------------------------------------------|------------|
 | `Animal Shelter Manager` | A web app to help volunteers manage information about shelter animals       | [GitHub](#) |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaGuilherme&layout=compact&theme=soft" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MonicaGuilherme&show_icons=true&theme=soft" alt="GitHub Stats"/>
-</div>
 
 ---
 
@@ -64,41 +71,3 @@
   <a href="https://www.instagram.com/_notabugbutafeature_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://www.codecademy.com/profiles/NotABUgButAFeature" target="_blank"><img src="https://img.shields.io/badge/Codecademy-1F243A?style=flat&logo=codecademy&logoColor=white"/></a>
 </p>
-
----
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MonicaGuilherme&style=flat-square&color=blue" alt="Visitor Counter"/>
-</p>
-
----
-
-## ✨ Style & Animations
-
-```css
-<style>
-  body {
-    font-family: 'Segoe UI', sans-serif;
-    background-color: #fdf6f0;
-    color: #333;
-    line-height: 1.6;
-  }
-  h1, h2 {
-    color: #6c4f8d;
-  }
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    animation: fadeIn 1s ease-in;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-  }
-  @keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity: 1;}
-  }
-</style>
