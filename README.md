@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonicaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monicaguilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
 <br>
@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <!-- Add more as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 </p>
 
 
