@@ -6,7 +6,7 @@
 
 ## About Me
 
-> _I’m a junior developer on the hunt for my very first opportunity in tech.  
+> _I’m a junior developer on the hunt for my first opportunity in tech.  
 > I’m ready to trade caffeine and curiosity for real-world experience.  
 > Eager to learn and grow, my goal is to join a company that appreciates dedicated career changers!_
 
@@ -32,6 +32,8 @@
 
 <br>
 
+<!-- Languages Graph -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monicaguilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
@@ -52,7 +54,8 @@
 
 | Project Name            | Description                                                                 | Link       |
 |------------------------|-----------------------------------------------------------------------------|------------|
-| `Animal Shelter Manager` | A web app to help volunteers manage information about shelter animals       | [GitHub](https://github.com/MonicaGuilherme/Animal-Shelter-Manager) |
+| `Animal Shelter Manager` | A web app to help volunteers manage information about shelter animals - **on pause** -       | [GitHub](https://github.com/MonicaGuilherme/Animal-Shelter-Manager) |
+| `Python Training` | The beginning of my learning journey in Python | [GitHub](https://github.com/MonicaGuilherme/The-Learning-Curve/tree/main/Python%20Training/FirstSteps) |
 
 
 
